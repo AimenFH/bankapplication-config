@@ -2,7 +2,7 @@ build:
   version: "7.0"
 
 accounts:
-  message: "Welcome to the Accounts service test hook API 2"
+  message: "Welcome to the Accounts service test hook API 3"
   contactDetails:
     name: "Ayman - Developer"
     email: "aymanDEV_tesh.com"
