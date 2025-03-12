@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to the Accounts service test API-"
+  message: "Welcome to the Accounts service test API"
   contactDetails:
     name: "Ayman - Developer"
     email: "aymanDEV.com"
