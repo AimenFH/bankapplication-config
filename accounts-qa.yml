@@ -1,5 +1,5 @@
 build:
-  version: "5.0"
+  version: "7.0"
 
 accounts:
   message: "Welcome to the Accounts service test API"
