@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to the Accounts service prod hook API"
+  message: "Welcome to the Accounts service prod hook 2 API"
   contactDetails:
     name: "Ayman - Developer"
     email: "{cipher}730d3095bc1e7741b0fc81e8aa571166da28c122d3700a567aa3180a64b3d8d3"
