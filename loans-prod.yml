@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to the Loans service Production API"
+  message: "Welcome to the Loans service Production hook prod API"
   contactDetails:
     name: "Ayman - Developer"
     email: "aymanDEV.com"
