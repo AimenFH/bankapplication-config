@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-accounts:
+loans:
   message: "Welcome to the Loans service Production hook prod API"
   contactDetails:
     name: "Ayman - Developer"
