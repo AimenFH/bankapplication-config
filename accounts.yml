@@ -2,7 +2,7 @@ build:
  version: "3.0"
 
 accounts:
-  message: "Welcome to the Accounts service API hook v3"
+  message: "Welcome to the Accounts service API hook v6"
   contactDetails:
     name: "Ayman - Developer"
     email: "aymanDEV.com"
