@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to the Loans service API"
+  message: "Welcome to the Loans service hook 1 API"
   contactDetails:
     name: "Ayman - Developer"
     email: "aymanDEV.com"
